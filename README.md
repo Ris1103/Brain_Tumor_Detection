@@ -3,6 +3,16 @@ A Deep Learning model using Brain MRI scan to detect whether it has tumour or no
 
 When we use deep learning algorithms on MRI pictures the brain tumor prediction is made in no time and with excessive accuracy which allows to offer remedy to patients. This prediction allows radiologists to make a short or short selection that results in the saving of many lives. In this proposed project, different ML techniques are used to discover the presence of a tumor with inside the mind after extensive experimentation and its feature is evaluated.
 
+
+
+<p align="center">
+  <img src="C:\Users\risha\Downloads\Screenshot 2022-12-09 165043.jpg" width="350" title="hover text">
+  <img src="C:\Users\risha\Downloads\Screenshot 2022-12-09 165043.jpg" width="350" alt="accessibility text">
+</p>
+
+
+
+
 I've used Deep Learning model Convolutional Neural Network to make a predicting model which classifies brain MRI scans as with tumour and without tumour. We can use any IDE like Jupyter Notebook or Google Collab. In this project we used google collab. The dataset we used is BR35 Brain tumour Detection from kaggle and medicalMNIST HeadCT dataset. For data preprocessing, I have performed steps like image resizing, converting images as arrays, grayscaling etc.
 
 For our labelled dataset I preprocessed the image separately for MRI scans with Tumors and MRI scans without Tumour and we will finally convert them into arrays. Once I normalized the images, the next step is to build the machine learning model. I used Deep Learning model CNN (Convolutional Neural) to build our predicting model. The data is split into training and test set. After splitting the data we will feed the images to our CNN model and train our model. In this model I used RelU activation function in the training model and used adam optimizer to optimize the model. Once the model was trained I used binary Cross Entropy loss to check accuracy of the model.
