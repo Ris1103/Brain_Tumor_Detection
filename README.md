@@ -4,11 +4,7 @@ A Deep Learning model using Brain MRI scan to detect whether it has tumour or no
 When we use deep learning algorithms on MRI pictures the brain tumor prediction is made in no time and with excessive accuracy which allows to offer remedy to patients. This prediction allows radiologists to make a short or short selection that results in the saving of many lives. In this proposed project, different ML techniques are used to discover the presence of a tumor with inside the mind after extensive experimentation and its feature is evaluated.
 
 
-
-<p align="center">
-  <img src="C:\Users\risha\Downloads\Screenshot 2022-12-09 165043.jpg" width="350" title="hover text">
-  <img src="C:\Users\risha\Downloads\Screenshot 2022-12-09 165043.jpg" width="350" alt="accessibility text">
-</p>
+![Screenshot 2022-12-09 165043](https://user-images.githubusercontent.com/82215717/206691894-e2f76baf-f5ca-4b0d-8d2b-0543e8744000.jpg)
 
 
 
